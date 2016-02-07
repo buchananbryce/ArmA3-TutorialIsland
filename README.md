@@ -6,5 +6,5 @@ Clone this repository into your P:\ Drive, it will automatically create a folder
 You can either use the Github Client or the commandline.  
 Client should be rather straight forward.  
 Commandline:  
-`P:  
-git clone https://github.com/CAPTNCAPS/ArmA3-TutorialIsland.git`
+`P:`   
+`git clone https://github.com/CAPTNCAPS/ArmA3-TutorialIsland.git`
